@@ -2,7 +2,6 @@
 ## Chris Harvey
 ## Version 3
 ## February 13, 2013
-## BIOSTAT 699 ~ Project 2
 ##################################################################
 setwd("~/Documents/classes.2012.2013/winter2013/bst.699/699.project.2/proj.2.code")
 source("project.2.functions.R")
