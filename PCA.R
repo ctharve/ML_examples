@@ -2,7 +2,6 @@
 ## Chris Harvey
 ## Version 2
 ## April 13, 2013
-## BIOSTAT 699 ~ Project 5
 ##################################################################
 setwd("~/Documents/classes.2012.2013/winter2013/bst.699/699.project.5/proj.5.code")
 #################################
