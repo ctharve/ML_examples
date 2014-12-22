@@ -35,6 +35,7 @@ s.hat.trace<-sum(diag(s.hat))
 s.hat.2.trace<-sum(diag(s.hat.2))
 v.hat<-s.hat.trace/p
 f.hat<-v.hat*diag(p)
+## TODO: recover paper to cite from Jing Shi ##
 
 row.test<-((1-2/p)*s.hat.2.trace+s.hat.trace^2)/((n+1-2/p)*(s.hat.2.trace-s.hat.trace^2/p))
 row.hat<-min(row.test, 1)
